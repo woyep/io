@@ -1,5 +1,5 @@
 * { box-sizing: border-box;}
-html, body{ margin: 0 padding: 0 }
+html, body{ margin: 0; padding: 0 }
 body {
   font-family: -apple-system, BlinkSystemFont, "Segoe UI", Roboto, Arial, "Noto Sans, SC", "PingFang SC", "Microsoft YaHei", sans-serif;
   line-height: 1.6
